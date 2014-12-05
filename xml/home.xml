@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+    <root>
+      <tf_title>Welcome to Street Science BX Auto Club!</tf_title>
+      <top_section>
+        <more_info></more_info>
+        <img src="" height="" width="" ></img>
+        <title>
+Featured ride of the week!
+        </title>
+        <copy>
+The featured ride of the week is Nox's Sentra SE-R Spec-V.  This car is currently undergoing modifications that may make it the car to talk about in Street Science
+        </copy>
+      </top_section>
+      <links>
+        <title>Simple Car Modifications</title>
+			<left>
+			  <link href="">Links One</link>
+			  <link href="">Links Two</link>
+			  <link href="">Links Three</link>
+			  <link href="">Links Four</link>
+      		</left>
+			<right>		
+			  <link href="">Links Four</link>
+			  <link href="">Links Five</link>
+			  <link href="">Links Seven</link>
+			  <link href="">Links Eight</link>
+		 	</right>
+			<para>Text will go here text will go here</para>
+      		<more_info></more_info>	
+			<bottom>
+				<img src="" height="" width="" ></img>
+				<img src="" height="" width="" ></img>
+				<img src="" height="" width="" ></img>
+				<img src="" height="" width="" ></img>
+			</bottom>
+	  </links>
+    </root>

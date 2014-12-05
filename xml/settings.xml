@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+    <root>
+	<body background="images/bg.jpg">
+	</body>
+	<people>
+		<quantity>5</quantity>
+		<details>
+			<person name="one" career="Culinary" desc="description here 1" image="images/image2.jpg" position="right"></person>
+			<person name="two" career="Automotive" desc="description here 2" image="images/image2.jpg" position="right"></person>
+			<person name="three" career="Health Science" desc="description here 3" image="images/image2.jpg" position="right"></person>
+			<person name="four" career="Spa Services" desc="description here 4" image="images/image2.jpg" position="left"></person>
+			<person name="five" career="Business & IT" desc="description here 5" image="images/image2.jpg" position="right"></person>
+			<person name="six" career="Computer Networking" desc="description here 6" image="images/image2.jpg" position="left"></person>
+		</details>
+	</people>
+    </root>
